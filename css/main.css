@@ -30,7 +30,8 @@
 }
 
 .intro {
-    background-image: url(/Users/manf/Desktop/PST/website/img/intro_background.png);
+    /*background-image: url(/Users/manf/Desktop/PST/website/img/intro_background.png);*/
+    background-image: url(../img/intro_background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
